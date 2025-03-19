@@ -3,6 +3,10 @@
 This repository contains the MuJoCo simulation environment used for doing the prehensile pushing experiment in the paper [Pushing Everything Everywhere All At Once: Probabilistic Prehensile Pushing
 ](https://arxiv.org/pdf/2503.14268). 
 
+
+https://github.com/user-attachments/assets/adcbe9ad-5d92-4fc7-a5f4-5bf083ac45b2
+
+
 ## Installation
 
 ```bash
