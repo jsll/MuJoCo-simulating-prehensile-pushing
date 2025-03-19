@@ -1,0 +1,11 @@
+name: simulating_prehensile_pushing
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pip:
+    - "mujoco>=3.1.0"
+    - PyYAML
+    - trimesh

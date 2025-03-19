@@ -1,0 +1,7 @@
+# Create a yaml file with the following content:
+# The name of an object mesh file
+# the name of a numpy trajectory file
+
+object: 'cube'
+mesh_file: 'cube.stl'
+trajectory_file: 'cube_trajectory_1.npy'
